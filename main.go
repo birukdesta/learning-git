@@ -1,3 +1,3 @@
-packahe main
+packae main
 
 func main() {}
